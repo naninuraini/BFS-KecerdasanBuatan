@@ -1,1 +1,6 @@
 # BFS-KecerdasanBuatan
+
+TUGAS MATAKULIAH KECERDASAN BUATAN - INDIVIDU
+Nama : Nani Nuraini
+NPM : 2215061032
+Kelas : PSTI D
